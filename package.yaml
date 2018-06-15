@@ -1,5 +1,5 @@
 name:                forkable-monad
-version:             0.2.0.0
+version:             0.2.0.1
 github:              "https://www.github.com/System-Indystress/ForkableMonad"
 license:             BSD3
 author:              "David Anderson"
@@ -10,6 +10,7 @@ description: <
   This module defines a more generic version of Control.Concurrent's
   forkIO, which can directly run some complex monadic actions as well
   as plain IO actions.
+category: Concurrent
 
 # Metadata used when publishing your package
 # synopsis:            Short description of your package
