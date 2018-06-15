@@ -1,6 +1,6 @@
 name:                forkable-monad
-version:             0.2.0.1
-github:              "https://www.github.com/System-Indystress/ForkableMonad"
+version:             0.2.0.2
+github:              "System-Indystress/ForkableMonad"
 license:             BSD3
 author:              "David Anderson"
 maintainer:          "matt.p.ahrens@gmail.com"
